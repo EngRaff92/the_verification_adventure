@@ -1,4 +1,4 @@
-baseURL: 
+baseURL: "https://EngRaff92.github.io/the_verification_adventure/" 
 languageCode: en-us
 title: My New Hugo Site
 theme: hugo-blog-awesome
